@@ -58,7 +58,7 @@ App preview:
 https://user-images.githubusercontent.com/88030979/146879354-4d33f324-1ee7-430b-b8c6-78cff012d93a.mp4
 
 Web Preview :
-![WhatsApp Image 2021-12-21 at 11 32 40](https://user-images.githubusercontent.com/88030979/146879904-0cd1c3de-5bf9-4f03-a0a5-d846c9b2a2bc.jpeg)
+![WhatsApp Image 2021-12-21 at 11 32 40](https://github.com/dishantzaveri/BillionAbles/blob/website/src/assets/1.png)
 ![WhatsApp Image 2021-12-21 at 11 33 00](https://user-images.githubusercontent.com/88030979/146879943-c49a5736-212d-4ddc-bbb1-0cc76dd09771.jpeg)
 ![WhatsApp Image 2021-12-21 at 11 33 14](https://user-images.githubusercontent.com/88030979/146879970-48091b84-1513-4360-bbe7-bc18e2bb5129.jpeg)
 ![WhatsApp Image 2021-12-21 at 11 34 58](https://user-images.githubusercontent.com/88030979/146880037-1fcd6b0f-51bf-4c80-89d8-7806c0c543d0.jpeg)
